@@ -1,0 +1,10 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	background:url(../img/bg.jpg) no-repeat center 0;
+	background-attachment:fixed;
+}
+.rap{width:100%; height:100%; margin-top:30px;}
+.register,.infor{display:none;}
+.banner{margin-top:90px;}
+.tishi{height:50px; margin-bottom:20px; line-height:50px; text-align:center; font-size:1.4em; color:#F00;}

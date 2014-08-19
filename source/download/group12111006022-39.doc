@@ -1,0 +1,70 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns="http://www.w3.org/TR/REC-html40">
+		<style>
+			h3{margin-bottom:3px;}
+			table{border-collapse:collapse; word-break:break-all; word-wrap:break-all;} 
+			table td{border:1px solid #000000;}
+			tr{height:33px;}
+			hr{margin:5px 0 5px 0;}
+			.blank{font-size:12px; font-family:"宋体", "黑体", "微软雅黑";}
+		</style>
+		<meta charset="utf-8">
+		<title>申请表</title>
+		<p align="left">社团编号：39</p>
+		<h3 align="center">社团类信息表</h3>
+		<hr size="2"></hr>
+		<table width="560" border="1" bordercolor="#000000" align="center">
+			<tr>
+				<td width="86" align="center">社团名称：</td>
+				<td width="160" class="blank">杨友存</td>
+				<td width="86" align="center">隶属于：</td>
+				<td width="128" class="blank">风刀霜剑哦</td>
+				<td rowspan="3"><img src="http://localhost/CodeIgniter_2.2.0/source/uploads/" width="100" height="131"></td>
+			</tr>
+			<tr>
+				<td width="86" align="center">类型：</td>
+				<td width="160" class="blank">1</td>
+				<td width="86" align="center">负责人学号：</td>
+				<td class="blank">12111006022</td>
+
+			</tr>
+			<tr>
+				<td width="86" align="center">社团成立日期：</td>
+				<td width="160" class="blank">18369956016</td>
+				<td width="86" align="center">社团开通日期：</td>
+				<td class="blank">0000-00-00 00:00:00</td>
+
+			</tr>
+			<tr>
+				<td rowspan="2">社团简介：</td>
+				<td rowspan="2" colspan="4" class="blank">打击哦</td>
+			</tr>
+			<tr></tr>
+			<tr>
+				<td rowspan="7">详细介绍：</td>
+				<td rowspan="7" colspan="4" class="blank">佛啊</td>
+			</tr>
+			<tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr>
+			<tr>
+				<td rowspan="4">纳新范围：</td>
+				<td rowspan="4" colspan="4" class="blank">发神经哦</td>
+			</tr>
+			<tr></tr><tr></tr><tr></tr>
+			<tr>
+				<td rowspan="2">报名方式：</td>
+				<td rowspan="2" colspan="4" class="blank">发神经哦</td>
+			</tr>
+			<tr></tr>
+			<tr>
+				<td rowspan="2">其他信息：</td>
+				<td rowspan="2" colspan="4" class="blank">发神经哦</td>
+			</tr>
+			<tr></tr>
+			<tr>
+				<td rowspan="1">备注：</td>
+				<td rowspan="1" colspan="4" class="blank">此表由：一站式纳新系统（123.youthol.cn）导出。</td>
+			</tr>
+			
+		</table>
+		</html>
